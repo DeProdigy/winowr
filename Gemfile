@@ -38,6 +38,8 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem 'json_builder'
+
 
 group :development, :test do
   gem "rspec-rails"
