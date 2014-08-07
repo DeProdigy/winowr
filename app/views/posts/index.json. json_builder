@@ -1,1 +1,2 @@
-message @posts
+message @posts.message
+more_info @posts.more_info
